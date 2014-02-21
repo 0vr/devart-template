@@ -27,6 +27,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](Dev Art Thingers/cover.jpg "Example Image")
+![Example Image](https://raw2.github.com/0vr/Dev-Art-Thingers/master/cover.jpg "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
